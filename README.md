@@ -21,7 +21,7 @@ I'm also expanding my React skills and improving how I deploy and maintain appli
 | Area | Technologies |
 | --- | --- |
 | Backend | PHP, Laravel, Eloquent ORM, REST APIs |
-| Database | MySQL |
+| Database | MySQL | MongoDB
 | Frontend | Blade, JavaScript, jQuery, AJAX, HTML, CSS, Bootstrap |
 | Integrations | Stripe, PayPal, Razorpay, OpenAI API |
 | Development & deployment | Git, GitHub, GitLab, Composer, npm, Vite, Postman, Linux, Nginx |
