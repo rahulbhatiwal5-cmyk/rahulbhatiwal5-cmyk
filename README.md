@@ -2,7 +2,7 @@
 
 **PHP / Laravel Developer · REST APIs · SaaS Applications**
 
-I'm a developer based in Mohali, India, with 2 years of hands-on experience in PHP and Laravel. I build backend features for web applications, including authentication, payment integrations, subscription workflows, and admin dashboards.
+I'm a developer based in Mohali, India, with 3.5 years of hands-on experience in PHP and Laravel. I build backend features for web applications, including authentication, payment integrations, subscription workflows, and admin dashboards.
 
 I'm also expanding my React skills and improving how I deploy and maintain applications on Linux VPS servers.
 
