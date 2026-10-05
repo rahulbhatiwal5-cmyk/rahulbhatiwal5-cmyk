@@ -2,9 +2,9 @@
 
 **PHP / Laravel Developer · REST APIs · SaaS Applications**
 
-I'm a developer based in Mohali, India, with 3.5 years of hands-on experience in PHP and Laravel. I build backend features for web applications, including authentication, payment integrations, subscription workflows, and admin dashboards.
-
-I'm also expanding my React skills and improving how I deploy and maintain applications on Linux VPS servers.
+I'm a PHP Laravel Full-Stack Developer focused on building robust, secure, and scalable web applications. I work across backend and frontend development, building complete solutions using PHP, Laravel, React.js, MySQL, REST APIs, JavaScript, Bootstrap, and Blade.
+My expertise includes authentication and authorization, API development and integration, payment gateways, subscription systems, admin dashboards, database design, and third-party API integrations.
+I focus on writing clean, maintainable code and transforming business requirements into reliable, efficient, and user-friendly web applications.
 
 [Explore my repositories](https://github.com/rahulbhatiwal5-cmyk?tab=repositories)
 
