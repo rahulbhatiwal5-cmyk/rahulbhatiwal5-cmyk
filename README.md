@@ -1,4 +1,4 @@
-# Hi, I'm Rahul Prajapat 👋
+# Hi, I'm Rahul Prajapat 
 
 **PHP / Laravel Developer · REST APIs · SaaS Applications**
 
